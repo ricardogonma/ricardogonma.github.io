@@ -1,0 +1,35 @@
+{ 
+  text:'hola'
+},
+{
+  text: 'Spiderman',
+  imagen: {uri:"https://dam.smashmexico.com.mx/wp-content/uploads/2016/07/31165553/amazing-spider-man-fcbd-header-770x385.jpg"}
+},
+{
+  text: 'Batman',
+  imagen: {uri: "https://vignette.wikia.nocookie.net/marvel_dc/images/7/7b/Batman_Vol_2_9_Textless_Variant.jpg"}
+},
+{
+  text: 'El caballero oscuro',
+  imagen: {uri: "https://vignette.wikia.nocookie.net/marvel_dc/images/5/56/Batman_0180.jpg"}
+},
+{
+  text: 'Hellboy',
+  imagen: {uri: "https://dam.smashmexico.com.mx/wp-content/uploads/2018/11/05172624/trend-top-5-hellboy-razones-mejor-comic-de-terror-cover.jpg"}
+},
+{
+  text: 'Kickass',
+  imagen: {uri: "https://vignette.wikia.nocookie.net/kick-ass/images/6/6a/Kick-Ass_3_Vol_1_1_Textless.jpg"}
+},
+{
+  text: 'Iron man',
+  imagen: {uri: "https://imgc.allpostersimages.com/img/print/u-g-F5S1E30.jpg"}
+},
+{
+  text: 'Superman',
+  imagen: {uri: "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2018/11/superman-worlds-finest_1.jpg"}
+},
+{
+  text: 'Dare devil',
+  imagen: {uri: "https://img.vixdata.io/pd/jpg-large/es/sites/default/files/d/daredevil-comic-gemelo-1.jpg"}
+}
