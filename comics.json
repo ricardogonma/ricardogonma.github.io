@@ -7,19 +7,22 @@
       "text": "Spiderman",
       "imagen": {
         "uri":"https://dam.smashmexico.com.mx/wp-content/uploads/2016/07/31165553/amazing-spider-man-fcbd-header-770x385.jpg"
-      }
+      },
+      "descripcion": "Spider-Man (llamado Hombre Araña en muchas de las traducciones al español) es un superhéroe ficticio creado por los escritores y editores Stan Lee y Steve Ditko. Apareció por primera vez en el cómic de antología Amazing Fantasy # 15 (5 de junio de 1962)[1] en la Edad de Plata de los cómics. Aparece en los cómics estadounidenses publicados por Marvel Comics, así como en varias películas, programas de televisión y adaptaciones de videojuegos ambientadas en el Universo Marvel. En las historias, Spider-Man es el alias de Peter Parker, un huérfano criado por su tía May y su tío Ben en la Ciudad de Nueva York después de que sus padres Richard y Mary Parker murieron en un accidente aéreo. Lee y Ditko tuvieron que lidiar con los problemas de la adolescencia y los problemas financieros, y lo acompañaron con muchos personajes de apoyo, como J. Jonah Jameson, Flash Thompson, Harry Osborn, los intereses románticos, Gwen Stacy y Mary Jane Watson, y enemigos como el Doctor Octopus, Kingpin, Duende Verde y Venom. Su historia de origen lo tiene adquiriendo habilidades relacionadas con la araña después de un mordisco de una araña radioactiva; estos incluyen aferrarse a las superficies, disparar telarañas desde dispositivos montados en la muñeca y detectar el peligro con su sentido arácnido"
     },
     {
       "text": "Batman",
       "imagen": {
         "uri": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/7b/Batman_Vol_2_9_Textless_Variant.jpg"
-      }
+      },
+      "descripcion": "Batman (conocido inicialmente como The Bat-Man) es un personaje creado por los estadounidenses Bob Kane y Bill Finger, y propiedad de DC Comics. Apareció por primera vez en la historia titulada «El caso del sindicato químico» de la revista Detective Comics N.º 27, lanzada por la editorial National Publications el 30 de marzo de 1939.La identidad secreta de Batman es Bruce Wayne (Bruno Díaz en algunos países de habla hispana), un empresario multimillonario y filántropo dueño de Empresas Wayne en Gotham City. Después de presenciar el asesinato de sus padres, el Dr. Thomas Wayne y Martha Wayne en un violento y fallido asalto cuando era niño, juró venganza contra los criminales, un juramento moderado por el sentido de la justicia. Bruce Wayne se entrena física e intelectualmente y crea un traje inspirado en los murciélagos para combatir el crimen, con sus utensilios de combate y sus vehículos"
     },
     {
       "text": "El caballero oscuro",
       "imagen": {
         "uri": "https://vignette.wikia.nocookie.net/marvel_dc/images/5/56/Batman_0180.jpg"
-      }
+      },
+      "descripcion": "The Dark Knight Rises (El caballero oscuro: la leyenda renace en España y Batman: el caballero de la noche asciende en Hispanoamérica) es una película épica de superhéroes británico-estadounidense de 2012 dirigida, producida y coescrita por Christopher Nolan. Basada en el personaje Batman de DC Comics, la cinta es la tercera y última entrega de la serie fílmica Batman de Nolan, y la secuela de Batman Begins (2005) y The Dark Knight (2008). Christian Bale repite el papel principal de Bruce Wayne/Batman, junto con el mismo reparto de aliados: Michael Caine como Alfred Pennyworth, Gary Oldman como James Gordon, y Morgan Freeman como Lucius Fox. El filme introduce a Selina Kyle (Anne Hathaway), una ladrona astuta y moralmente ambigua, y Bane (Tom Hardy), un mercenario empeñado en destruir Gotham City y que fuerza a un Bruce Wayne más viejo a salir del retiro y volverse Batman nuevamente."
     },
     {
       "text": "Hellboy",
@@ -31,7 +34,8 @@
       "text": "Kickass",
       "imagen": {
         "uri": "https://vignette.wikia.nocookie.net/kick-ass/images/6/6a/Kick-Ass_3_Vol_1_1_Textless.jpg"
-      }
+      },
+      "descripcion": "Kick-Ass es un cómic de publicación mensual (aunque con retrasos debido al compromiso de su dibujante con otras series regulares) guionizado por Mark Millar y dibujado por John Romita Jr. Comenzó su publicación en Estados Unidos en 2008 bajo la editorial Icon Comics, un sello perteneciente a Marvel Comics. En España ha sido publicado por Panini Cómics, desde abril de 2010, en México desde 2013 también por Panini Cómics y en Chile se publica actualmente por la editorial Unlimited.3​ En el año 2012 fue publicado en Argentina por OVNI Press Editorial."
     },
     {
       "text": "Iron man",
